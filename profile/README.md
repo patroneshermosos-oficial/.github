@@ -1,3 +1,5 @@
+<div align="center">
+
 # Patrones Hermosos Oficial
 
 ## ¿Quiénes somos?
@@ -10,3 +12,5 @@ Design Thinking - [Inscripciones]()
 Introducción a Blockchain - [YouTube]()
 Introducción a GitHub - [YouTube]()
 Introducción al Pensamiento Computacional y Diseño Web - [Inscripciones]()
+
+</div>
