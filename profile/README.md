@@ -1,10 +1,11 @@
 <div align="center">
 
 # Patrones Hermosos Oficial
-beautifulpatterns.org
+(sitio oficial)[beautifulpatterns.org]
 [![Twitter Follow](https://img.shields.io/twitter/follow/patronesh?logoColor=E55E4F&color=FFFFFF&style=social)](https://twitter.com/carobarreirov)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCi9A7tCwNelhMpZJoI4XM6g?style=social&color=FFFFFF&logoColor=E55E4F)](https://www.youtube.com/channel/UCi9A7tCwNelhMpZJoI4XM6g)
 
+</div>
 ## ¿Quiénes somos?
 Somos un proyecto de tipo open-source que busca aumentar la representación de mujeres latinas en áreas STEM proveyendo educación accesible. Esta iniciativa nacida en el Instituto Tecnológico de Massachussets mejor conocido como el MIT fue creada en 2018.
 Desde entonces hemos tenido presencia a través de los Bootcamps presenciales en más de 10 países latinoamericanos colaborando con más diez universidades LATAM prestigiosas. 
@@ -29,4 +30,4 @@ Patrones Hermosos es una iniciativa dirigida por Abel Sánchz PhD, director de i
 El piloto del Bootcamo de Patrones Hermosos se llevó a cabo en 2017, la primera edición de forma nacional en 2018, y otra en 2019. 
 Debido a la pandemia el programa se ha mantenido en modalidad “en línea” en los años 2021 y 2022. 
 
-</div>
+
